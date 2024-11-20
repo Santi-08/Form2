@@ -21,7 +21,7 @@ p {
 }
 
 form {
-    background-color: red
+    background-color: rgb(203, 164, 232);
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
